@@ -17,6 +17,6 @@ VALUES ('2021-01-01', '2021-09-02', 2, 4),
 ('2011-01-01', '2021-02-12', 3, 6);
 
 INSERT INTO property_reviews (guest_id, property_id, reservation_id, rating, message)
-VALUES (4, 2, 1, 5, 'Best LightBnB ever!'),
-(5, 1, 2, 3, 'Nothing to complain about :)'),
-(6, 3, 3, 4, 'Great location!');
+VALUES (4, 2, 1, 5, 'long stay'),
+(5, 1, 2, 3, 'average'),
+(6, 3, 3, 4, 'paradise');
